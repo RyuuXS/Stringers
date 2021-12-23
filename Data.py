@@ -13,7 +13,7 @@ Jika kamu tidak percaya bot ini,
 2) blokir bot atau delete chat
 
 Bot ini Bekerja Untuk Membantu Kamu Mendapatkan String Session Via Bot. Rekomendasi Jika Ingin Mengambil String Gunakan Akun Lain, Agar Tidak Delay. Terimakasih
-By @IDnyaKosong
+By @ybgskr_ex
     """
 
     # Home Button
@@ -29,12 +29,12 @@ By @IDnyaKosong
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ 🔥", callback_data="generate")],
-        [InlineKeyboardButton("ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ", url="https://t.me/IDnyaKosong")],
+        [InlineKeyboardButton("ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ", url="https://t.me/ybgskr_ex")],
         [
             InlineKeyboardButton("ᴄᴀʀᴀ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ sᴀʏᴀ ❔", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("ɪɴғᴏ ʙᴏᴛ ʟᴀɪɴ", url="https://t.me/NastySupportt")],
+        [InlineKeyboardButton("ɪɴғᴏ ʙᴏᴛ ʟᴀɪɴ", url="https://t.me/loveisfuckedup")],
     ]
 
     # Help Message
@@ -53,13 +53,13 @@ By @IDnyaKosong
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @NastyStringbot
+Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @string_bagasbot
 
-Group Support : [ɢᴀʙᴜɴɢ](https://t.me/NastySupportt)
+Group Support : [support](https://t.me/allfucek)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @IDnyaKosong
+Developer : @ybgskr_ex
     """
