@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://t.me/PrimeSupportGroup"><img src="https://telegra.ph/file/d6b61422b8a81da6e1d65.jpg" width="2000"></a></p>
+<p align="center"><a href="https://t.me/allfucek"><img src="https://telegra.ph/file/d6b61422b8a81da6e1d65.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -12,7 +12,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammadrizky16/StringKyy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ybgskr12/StringKyy.git)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -66,9 +66,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Support Channel](https://t.me/ahhsudahlahhh)
+Channel :- [Support Channel](https://t.me/loveisfuckedup)
 
-Group Chat :- [Group support](https://t.me/NastySupportt)
+Group Chat :- [Group support](https://t.me/allfucek)
 
 ## :)
 
