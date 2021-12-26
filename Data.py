@@ -7,12 +7,7 @@ class Data:
 Halo {}
 
 Selamat datang {}
-
-Jika kamu tidak percaya bot ini, 
-1) gausah baca pesan ini
-2) blokir bot atau delete chat
-
-Bot ini Bekerja Untuk Membantu Kamu Mendapatkan String Session Via Bot. Rekomendasi Jika Ingin Mengambil String Gunakan Akun Lain, Agar Tidak Delay. Terimakasih
+Bot ini Bekerja Untuk Mendapatkan String Session Via Bot.
 By @greyvbss
     """
 
@@ -29,9 +24,9 @@ By @greyvbss
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ", callback_data="generate")],
-        [InlineKeyboardButton("ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ", url="https://t.me/greyvbss")],
+        [InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/greyvbss")],
         [
-            InlineKeyboardButton("ᴄᴀʀᴀ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ sᴀʏᴀ ❔", callback_data="help"),
+            InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅ ?", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
         [InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/greynihsupport")],
@@ -53,7 +48,7 @@ By @greyvbss
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @StringGreyBot
+Pyrogram dan telethon string session by @StringGreyBot
 
 Group Support : [support](https://t.me/greynihsupport)
 
