@@ -8,7 +8,7 @@ Halo {}
 
 Selamat datang {}
 Bot ini Bekerja Untuk Mendapatkan String Session Via Bot.
-By @reyyvbss
+By @greyyvbss
     """
 
     # Home Button
@@ -24,12 +24,12 @@ By @reyyvbss
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ", callback_data="generate")],
-        [InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/reyyvbss")],
+        [InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/greyyvbss")],
         [
             InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅ ?", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/CilikProject")],
+        [InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/CilikSupport")],
     ]
 
     # Help Message
