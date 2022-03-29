@@ -1,7 +1,7 @@
 version: "3.9"
 services:
-  worker: python-3.9.7
-    build: .
+  worker:
+    build: 
     environment:
       API_ID: $API_ID
       API_HASH: $API_HASH
