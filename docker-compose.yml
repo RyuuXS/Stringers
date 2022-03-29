@@ -1,6 +1,6 @@
 version: "3.9"
 services:
-  worker:
+  worker: python-3.9.7
     build: .
     environment:
       API_ID: $API_ID
